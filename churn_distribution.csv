@@ -1,0 +1,3 @@
+Churn Class,Full Dataset,Training Set,Test Set
+No Churn (0),0.808,0.8075,0.81
+Churn (1),0.192,0.1925,0.19
